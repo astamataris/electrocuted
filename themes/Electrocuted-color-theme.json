@@ -53,8 +53,7 @@
     "editorWidget.resizeBorder": "#f44747",
     "widget.shadow": "#11141ab3",
 
-    "diffEditor.insertedTextBackground": "#66f0c213",
-    "dropdown.background": "#1d222b",
+    //editor
     "editor.background": "#1f2735",
     // "editor.foreground": "#97a7c8",
     "textLink.foreground": "#dadada",
@@ -73,6 +72,11 @@
     "editorLineNumber.foreground": "#3D4D67",
     "editorSuggestWidget.background": "#141820",
     "editorWhitespace.foreground": "#3b3a32",
+
+    "diffEditor.insertedTextBackground": "#66f0c213",
+    "dropdown.background": "#1d222b",
+
+
 
     "gitDecoration.ignoredResourceForeground": "#3D4D67",
     "gitDecoration.modifiedResourceForeground": "#E3C18A",
