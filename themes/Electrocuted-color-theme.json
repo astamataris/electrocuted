@@ -3,7 +3,7 @@
   "name": "Electron Color Theme",
   "colors": {
     // general
-    "focusBorder": "#f44747",
+    "focusBorder": "#141820",
     "foreground": "#818CA6",
     "progressBar.background": "#f44747",
     "selection.background": "#f44747",
@@ -22,6 +22,7 @@
     "list.focusBackground": "#3D4D67",
     "list.focusAndSelectionOutline": "#f44747",
     "list.hoverBackground": "#141820",
+    "list.hoverForeground": "#dadada",
     "list.inactiveSelectionBackground": "#303B50",
     "list.inactiveSelectionForeground": "#D5D9E2",
     "list.highlightForeground": "#f44747",
@@ -36,12 +37,14 @@
     "statusBarItem.remoteForeground": "#141820",
 
     //buttons
-    "button.background": "#f44747",
-    "button.foreground": "#141820",
+    "button.foreground": "#f44747",
+    "button.background": "#141820",
+    "button.secondaryBackground": "#f44747",
+    "button.secondaryForeground": "#141820",
 
     //inputs
     "input.background": "#141820",
-    "input.border": "#1A1F2E",
+    "input.border": "#f44747",
     "input.foreground": "#dadada",
     "input.placeholderForeground": "#f44747",
 
@@ -59,7 +62,7 @@
     "editor.foreground": "#dadada",
     "editor.lineHighlightBackground": "#99bbff0a",
     "editor.selectionBackground": "#e6eeff21",
-    "editor.wordHighlightBackground": "#343F56",
+    "editor.wordHighlightBackground": "#2e1f1a",
     "editorCursor.foreground": "#f30f4c",
     "editorGroup.border": "#1A1F2E",
     "editorGroupHeader.tabsBackground": "#1C212E",
