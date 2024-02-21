@@ -1,0 +1,33 @@
+{
+	"name": "electrocuted",
+	"displayName": "Electrocuted",
+	"description": "Based on Electron theme with some sprinkles of Ayu Mirage.",
+	"version": "0.3.0",
+	"publisher": "astamataris",
+	"engines": {
+		"vscode": "^1.30.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Electrocuted",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Electrocuted-color-theme.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "6c4dd0cf-b448-47a7-9a38-c10884fd8278",
+		"publisherId": "5093889c-81eb-4419-bf92-4ba34045096f",
+		"publisherDisplayName": "Andreas Stamataris",
+		"targetPlatform": "undefined",
+		"isApplicationScoped": false,
+		"updated": false,
+		"isPreReleaseVersion": false,
+		"installedTimestamp": 1665216286347,
+		"preRelease": false
+	}
+}
