@@ -17,14 +17,16 @@
     "sideBar.background": "#1C212E",
     "sideBarSectionHeader.background": "#141820",
     "sideBarTitle.foreground": "#f44747",
-    "list.activeSelectionBackground": "#3D4D67",
-    // "list.focusOutline": "#f44747",
+    "list.activeSelectionBackground": "#f44747",
     "list.activeSelectionForeground": "#ffffff",
     "list.focusBackground": "#3D4D67",
+    "list.focusAndSelectionOutline": "#f44747",
     "list.hoverBackground": "#141820",
     "list.inactiveSelectionBackground": "#303B50",
     "list.inactiveSelectionForeground": "#D5D9E2",
     "list.highlightForeground": "#f44747",
+    "list.filterMatchBackground": "#141820",
+    "list.focusHighlightForeground": "#141820",
     "listFilterWidget.background": "#f44747",
 
     //statusbar
