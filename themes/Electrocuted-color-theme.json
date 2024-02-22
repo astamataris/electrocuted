@@ -34,7 +34,8 @@
     "statusBar.debuggingBackground": "#ff9900",
     "statusBar.debuggingForeground": "#141820",
     "statusBarItem.remoteBackground": "#f44747",
-    "statusBarItem.remoteForeground": "#141820",
+    "statusBarItem.remoteForeground": "#fff",
+    "statusBarItem.hoverForeground": "#141820",
 
     //buttons
     "button.foreground": "#f44747",
