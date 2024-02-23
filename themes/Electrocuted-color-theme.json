@@ -20,7 +20,7 @@
     "list.activeSelectionBackground": "#f44747",
     "list.activeSelectionForeground": "#ffffff",
     "list.focusBackground": "#3D4D67",
-    "list.focusAndSelectionOutline": "#f44747",
+    // "list.focusAndSelectionOutline": "#f44747",
     "list.hoverBackground": "#141820",
     "list.hoverForeground": "#dadada",
     "list.inactiveSelectionBackground": "#303B50",
@@ -67,7 +67,7 @@
 
     //inputs
     "input.background": "#141820",
-    "input.border": "#f44747",
+    "input.border": "#f4474756",
     "input.foreground": "#dadada",
     "input.placeholderForeground": "#f44747",
 
