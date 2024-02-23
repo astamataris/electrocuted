@@ -26,7 +26,7 @@
     "list.inactiveSelectionBackground": "#303B50",
     "list.inactiveSelectionForeground": "#D5D9E2",
     "list.highlightForeground": "#f44747",
-    "list.filterMatchBackground": "#141820",
+    "list.filterMatchBackground": "#c3030371",
     "list.focusHighlightForeground": "#141820",
     "listFilterWidget.background": "#f44747",
 
