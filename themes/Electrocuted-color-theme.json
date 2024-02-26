@@ -90,7 +90,7 @@
     "editor.selectionBackground": "#c3030371",
     "editorSuggestWidget.selectedIconForeground": "#ffffff",
     "editorSuggestWidget.selectedForeground": "#dadada",
-    "editor.selectionHighlightBackground": "#dadadac7",
+    "editor.selectionHighlightBackground": "#00000071",
     // "editor.selectionHighlightBorder": "#fecc16",
     // "editor.findMatchBorder": "#00ff04",
     "editor.findMatchBackground": "#c3030371",
