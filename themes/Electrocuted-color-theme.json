@@ -5,31 +5,31 @@
     // general
     "focusBorder": "#141820",
     "foreground": "#818CA6",
-    "progressBar.background": "#ff2e2e",
-    "selection.background": "#ff2e2e",
+    "progressBar.background": "#f44747",
+    "selection.background": "#f44747",
 
     //activity bar
     "activityBar.background": "#141820",
-    "activityBarBadge.background": "#ff2e2e",
+    "activityBarBadge.background": "#f44747",
     "activityBarBadge.foreground": "#dadada",
 
     //sidebar
     "sideBar.background": "#1C212E",
     "sideBarSectionHeader.background": "#141820",
-    "sideBarTitle.foreground": "#ff2e2e",
+    "sideBarTitle.foreground": "#f44747",
     "list.activeSelectionBackground": "#c3030371",
     "list.activeSelectionForeground": "#ffffff",
     "list.focusBackground": "#3D4D67",
-    // "list.focusAndSelectionOutline": "#ff2e2e",
+    // "list.focusAndSelectionOutline": "#f44747",
     "list.hoverBackground": "#141820",
     "list.hoverForeground": "#dadada",
     "list.inactiveSelectionBackground": "#303B50",
     "list.inactiveSelectionForeground": "#D5D9E2",
-    "list.highlightForeground": "#ff2e2e",
+    "list.highlightForeground": "#f44747",
     "list.filterMatchBackground": "#c3030371",
     "list.filterMatchBorder": "#fecc16",
     "list.focusHighlightForeground": "#ffffff",
-    "listFilterWidget.background": "#ff2e2e",
+    "listFilterWidget.background": "#f44747",
     "gitDecoration.ignoredResourceForeground": "#3D4D67",
     "gitDecoration.modifiedResourceForeground": "#E3C18A",
     "gitDecoration.untrackedResourceForeground": "#70CA8E",
@@ -41,19 +41,19 @@
     "statusBar.noFolderBackground": "#212836",
     "statusBar.debuggingBackground": "#ff9900",
     "statusBar.debuggingForeground": "#141820",
-    "statusBarItem.remoteBackground": "#ff2e2e",
+    "statusBarItem.remoteBackground": "#f44747",
     "statusBarItem.remoteForeground": "#fff",
     "statusBarItem.hoverForeground": "#141820",
 
     //buttons
-    "button.foreground": "#ff2e2e",
+    "button.foreground": "#f44747",
     "button.background": "#141820",
-    "button.secondaryBackground": "#ff2e2e",
+    "button.secondaryBackground": "#f44747",
     "button.secondaryForeground": "#141820",
 
     // tabs
     "tab.activeBackground": "#212836",
-    "tab.activeBorder": "#ff2e2e",
+    "tab.activeBorder": "#f44747",
     "tab.border": "#1C212E",
     "tab.inactiveBackground": "#212836",
     "tab.inactiveForeground": "#818CA6",
@@ -72,11 +72,11 @@
     "input.background": "#141820",
     "input.border": "#c3030371",
     "input.foreground": "#dadada",
-    "input.placeholderForeground": "#ff2e2e",
+    "input.placeholderForeground": "#f44747",
 
     //widget
     "editorWidget.background": "#141820",
-    "editorWidget.resizeBorder": "#ff2e2e",
+    "editorWidget.resizeBorder": "#f44747",
     "widget.shadow": "#11141ab3",
 
     //editor
@@ -84,7 +84,7 @@
 
     // "editor.foreground": "#97a7c8",
     "textLink.foreground": "#dadada",
-    "textLink.activeForeground": "#ff2e2e",
+    "textLink.activeForeground": "#f44747",
     "editor.foreground": "#dadada",
     "editor.lineHighlightBackground": "#99bbff0a",
     "editor.selectionBackground": "#c3030371",
@@ -109,7 +109,7 @@
     "editorLineNumber.foreground": "#3D4D67",
     "editorSuggestWidget.background": "#141820",
     "editorSuggestWidget.foreground": "#dadada",
-    "editorSuggestWidget.highlightForeground": "#ff2e2e",
+    "editorSuggestWidget.highlightForeground": "#f44747",
     "editorWhitespace.foreground": "#dadada43",
     "diffEditor.insertedTextBackground": "#66f0c213",
     "dropdown.background": "#1d222b",
@@ -243,7 +243,7 @@
       "settings": {
         // "foreground": "#E76572"
         // "foreground": "#cc0052"
-        "foreground": "#00e6ff"
+        "foreground": "#2EFFFF"
       }
     },
     {
@@ -446,7 +446,7 @@
       "scope": "variable, meta.selector.css",
       "settings": {
         // "foreground": "#E26674"
-        "foreground": "#ff2e2e"
+        "foreground": "#f44747"
       }
     },
     {
@@ -462,7 +462,7 @@
       "scope": "support.class, entity.name.class, entity.name.type.class",
       "settings": {
         // "foreground": "#E76572"
-        "foreground": "#ff2e2e"
+        "foreground": "#f44747"
       }
     },
     {
@@ -572,7 +572,7 @@
     {
       "scope": "token.error-token",
       "settings": {
-        "foreground": "#ff2e2e"
+        "foreground": "#f44747"
       }
     },
     {
