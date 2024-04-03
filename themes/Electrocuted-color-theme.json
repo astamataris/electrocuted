@@ -31,8 +31,9 @@
     "list.focusHighlightForeground": "#ffffff",
     "listFilterWidget.background": "#f44747",
     "gitDecoration.ignoredResourceForeground": "#3D4D67",
-    "gitDecoration.modifiedResourceForeground": "#E3C18A",
-    "gitDecoration.untrackedResourceForeground": "#70CA8E",
+    "gitDecoration.modifiedResourceForeground": "#ff9d00",
+    "gitDecoration.untrackedResourceForeground": "#00ff55",
+    "gitDecoration.deletedResourceForeground": "#f44747",
 
     //statusbar
     "statusBar.background": "#212836",
