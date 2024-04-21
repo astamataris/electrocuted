@@ -13,6 +13,11 @@
 	"contributes": {
 		"themes": [
 			{
+				"label": "Electrocuted But Purple",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Electrocuted-but-purple.json"
+			},
+			{
 				"label": "Electrocuted",
 				"uiTheme": "vs-dark",
 				"path": "./themes/Electrocuted-color-theme.json"
