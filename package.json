@@ -12,15 +12,15 @@
 	],
 	"contributes": {
 		"themes": [
+      {
+        "label": "Electrocuted",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Electrocuted-color-theme.json"
+      },
 			{
-				"label": "Electrocuted But Purple",
+				"label": "Electrocuted Gruvbox",
 				"uiTheme": "vs-dark",
-				"path": "./themes/Electrocuted-but-purple.json"
-			},
-			{
-				"label": "Electrocuted",
-				"uiTheme": "vs-dark",
-				"path": "./themes/Electrocuted-color-theme.json"
+				"path": "./themes/Electrocuted-but-brown.json"
 			}
 		]
 	},
