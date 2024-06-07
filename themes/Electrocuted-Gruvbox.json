@@ -62,7 +62,8 @@
       "scope": ["entity.name.tag.block.any.html",
       "entity.name.tag.html",
       "entity.name.tag.other.html",
-      "entity.name.tag.inline.any.html"
+      "entity.name.tag.inline.any.html",
+      "entity.name.tag.html"
     ],
       "settings": {
         "foreground": "#00cbd6"
