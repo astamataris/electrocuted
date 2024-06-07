@@ -13,15 +13,15 @@
 	"contributes": {
 		"themes": [
       {
+        "label": "Electrocuted Gruvbox",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Electrocuted-Gruvbox.json"
+      },
+      {
         "label": "Electrocuted",
         "uiTheme": "vs-dark",
         "path": "./themes/Electrocuted-color-theme.json"
-      },
-			{
-				"label": "Electrocuted Gruvbox",
-				"uiTheme": "vs-dark",
-				"path": "./themes/Electrocuted-Gruvbox.json"
-			}
+      }
 		]
 	},
 	"__metadata": {
