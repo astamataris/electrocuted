@@ -59,7 +59,17 @@
       }
     },
     {
-      "scope": ["entity.name.tag", "punctuation.tag"],
+      "scope": ["entity.name.tag.block.any.html",
+      "entity.name.tag.html",
+      "entity.name.tag.other.html",
+      "entity.name.tag.inline.any.html"
+    ],
+      "settings": {
+        "foreground": "#00cbd6"
+      }
+    },
+    {
+      "scope": ["source.css.scss","entity.name.tag"],
       "settings": {
         "foreground": "#fd8515"
       }
