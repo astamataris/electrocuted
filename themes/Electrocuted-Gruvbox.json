@@ -61,7 +61,7 @@
     {
       "scope": ["entity.name.tag", "punctuation.tag"],
       "settings": {
-        "foreground": "#13cdb7"
+        "foreground": "#fd8515"
       }
     },
     {
@@ -316,7 +316,9 @@
         "variable.name",
         "variable.other",
         "variable",
-        "string.constant.other.placeholder"
+        "string.constant.other.placeholder",
+        "source.css.scss",
+        "support.constant"
       ],
       "settings": {
         "foreground": "#96d3bc"
@@ -402,15 +404,12 @@
       "scope": "entity.name.function.decorator",
       "settings": {
         "foreground": "#fabd2f",
-        "fontStyle": "bold"
       }
     },
     {
       "name": "Python ALL CAPS",
       "scope": "constant.other.caps",
-      "settings": {
-        "fontStyle": "bold"
-      }
+
     },
     // SHELL ----------------------------------------
     {
@@ -489,7 +488,6 @@
       "scope": "entity.name.function.target",
       "settings": {
         "foreground": "#a9cf2d",
-        "fontStyle": "bold"
       }
     },
     // JAVA ----------------------------------------
@@ -519,7 +517,6 @@
       "scope": "storage.type.annotation",
       "settings": {
         "foreground": "#96d3bc",
-        "fontStyle": "bold"
       }
     },
     {
@@ -532,7 +529,6 @@
       "scope": "comment.block.javadoc variable.parameter.java",
       "settings": {
         "foreground": "#a9cf2d",
-        "fontStyle": "bold"
       }
     },
     {
@@ -582,7 +578,6 @@
     {
       "scope": "markup.heading",
       "settings": {
-        "fontStyle": "bold",
         "foreground": "#fe8019"
       }
     },
@@ -632,7 +627,7 @@
     {
       "scope": "string.quoted.double.json",
       "settings": {
-        "foreground": "#96d3bc"
+        "foreground": "#a9cf2d"
       }
     },
     {
@@ -641,7 +636,7 @@
         "source.json meta.structure.dictionary.json support.type.property-name.json"
       ],
       "settings": {
-        "foreground": "#a9cf2d"
+        "foreground": "#fe8019"
       }
     },
     {
@@ -650,7 +645,7 @@
         "source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
       ],
       "settings": {
-        "foreground": "#fe8019"
+        "foreground": "#96d3bc"
       }
     },
     {
@@ -688,6 +683,7 @@
       "scope": "support.type.property-name.css",
       "settings": {
         "foreground": "#fe8019"
+
       }
     },
     {
@@ -712,16 +708,11 @@
         "support.property-value",
         "constant.rgb-value",
         "support.property-value.scss",
-        "constant.rgb-value.scss"
+        "constant.rgb-value.scss",
+        "variable"
       ],
       "settings": {
-        "foreground": "#d65d0e"
-      }
-    },
-    {
-      "scope": ["entity.name.tag.css"],
-      "settings": {
-        "fontStyle": ""
+        "foreground": "#13cdb7"
       }
     },
     // HTML / XML ----------------------------------------
@@ -729,13 +720,6 @@
       "scope": ["punctuation.definition.tag"],
       "settings": {
         "foreground": "#00FF99"
-      }
-    },
-    {
-      "scope": ["text.html entity.name.tag", "text.html punctuation.tag"],
-      "settings": {
-        "foreground": "#fe8019",
-        "fontStyle": "bold"
       }
     },
     // javascript ---------------------------------------
@@ -920,8 +904,8 @@
     "activityBar.background": "#32302f",
     "activityBar.foreground": "#ebdbb2",
     "activityBar.border": "#3c3836",
-    "activityBarBadge.background": "#00cbd6",
-    "activityBarBadge.foreground": "#ebdbb2",
+    "activityBarBadge.background": "#fe8019",
+    "activityBarBadge.foreground": "#3c3836",
     // EDITOR GROUPS
     "editorGroup.border": "#3c3836",
     "editorGroup.dropBackground": "#3c383660",
@@ -977,7 +961,7 @@
     "editorGutter.deletedBackground": "#fb4934",
     "editorError.foreground": "#cc241d",
     "editorWarning.foreground": "#d79921",
-    "editorInfo.foreground": "#00cbd6",
+    "editorInfo.foreground": "#fe8019",
     // EDITOR - BRACKET PAIR COLORIZATION
     // "editorBracketHighlight.foreground1": "#ff5353",
     // "editorBracketHighlight.foreground2": "#ff8953",

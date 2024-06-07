@@ -2,7 +2,7 @@
 	"name": "electrocuted",
 	"displayName": "Electrocuted",
 	"description": "Based on Electron theme with some sprinkles of Ayu Mirage.",
-	"version": "0.17.0",
+	"version": "0.17.1",
 	"publisher": "astamataris",
 	"engines": {
 		"vscode": "^1.30.0"
