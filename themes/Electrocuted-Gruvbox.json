@@ -37,7 +37,7 @@
     {
       "scope": ["constant", "support.constant", "variable.arguments"],
       "settings": {
-        "foreground": "#fe8019"
+        "foreground": "#FCF153"
       }
     },
     {
@@ -268,7 +268,7 @@
     {
       "scope": ["variable.this", "support.variable"],
       "settings": {
-        "foreground": "#fd5380"
+        "foreground": "#FCF153"
       }
     },
     {
@@ -338,7 +338,7 @@
     {
       "scope": "prototype",
       "settings": {
-        "foreground": "#fd5380"
+        "foreground": "#FCF153"
       }
     },
     {
@@ -485,7 +485,7 @@
       "name": "C# This",
       "scope": ["keyword.other.this.cs", "keyword.other.base.cs"],
       "settings": {
-        "foreground": "#fd5380"
+        "foreground": "#FCF153"
       }
     },
     // MAKEFILE ----------------------------------------
@@ -576,7 +576,7 @@
     {
       "scope": "markup.underline.link",
       "settings": {
-        "foreground": "#fd5380"
+        "foreground": "#FCF153"
       }
     },
     {
@@ -781,7 +781,7 @@
     {
       "scope": ["source.go entity.name.function"],
       "settings": {
-        "foreground": "#fd5380"
+        "foreground": "#FCF153"
       }
     },
     // cucumber
@@ -1073,7 +1073,7 @@
     "debugToolBar.background": "#32302f"
   },
   "semanticTokenColors": {
-    "constant.builtin": "#fd5380",
+    "constant.builtin": "#FCF153",
     "property": "#96d3bc",
     "property:python": "#ebdbb2",
     "parameter": "#96d3bc",
